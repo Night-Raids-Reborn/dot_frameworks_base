@@ -264,4 +264,7 @@
     <integer name="config_smartCutoffTemperature">30</integer>
     <integer name="config_smartCutoffResumeTemperature">25</integer>
 
+    <!-- Whether to spoof device as Pixel XL for Google Photos -->
+    <bool name="config_spoofGooglePhotos">true</bool>
+
 </resources>

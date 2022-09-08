@@ -183,4 +183,7 @@
      <java-symbol type="integer" name="config_smartCutoffTemperature" />
      <java-symbol type="integer" name="config_smartCutoffResumeTemperature" />
 
+   <!-- Whether to spoof device as Pixel XL for Google Photos -->
+   <java-symbol type="bool" name="config_spoofGooglePhotos" />
+
 </resources>
